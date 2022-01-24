@@ -14,7 +14,7 @@ permalink: /:title/
 # Authors
 authors:
   saptarshi:
-    name: Saptarshi Das
+    name: Saptarshi 
     display_name: Saptarshi
      avatar: "assets/images/saptarshi.jpeg"
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -23,7 +23,7 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     description: "Final year undergraduate, department of Information Technology, Jadavpur University."
   tamodip:
-    name: Tamodip Das
+    name: Tamodip 
     display_name: Tamodip
     avatar: "assets/images/tamodip.jpg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81

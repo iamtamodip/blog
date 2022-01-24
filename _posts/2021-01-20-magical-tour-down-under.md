@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Magical Tour Down Under"
-author: Saptarshi Das
+author: Saptarshi
 categories: [Jekyll, tutorial]
 image: assets/images/magical_tour.jpg
 featured: true
