@@ -1,104 +1,22 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+title: "The Magical Tour Down Under"
+author: Saptarshi
+categories: [Jekyll, tutorial]
+image: assets/images/magical_tour.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+What a tour this has been!!!
+Started on the 27th of Nov with the ODI series.
+Woke up early only to see Indian bowlers getting smashed by Smith and Co. though they managed to fight hard with the bat and eventually found a solitary win in the 3rd ODI.
 
+Next came the T20 series. This time it was role reversal with us winning 2-1.
 
-## Special formatting
+Last was the BG series.
+1st test- We were well ahead at stumps on day 2. But never even in my wildest of dreams I have dreamt to wake up and check the score to find India being 36 all out(36/9 actually). Eventually lost the test match only due to that "30 minutes of bad play ".
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+Captain Kohli departed ,bowlers started getting injured and all hopes were vanishing. But still kept hope on Rahane and Co. and woke up every morning only in hope of a turnaround. And guess what, it did happen.
+Yes,it did happen and it happened at Australia's fortress Gabba in front of those spectators who racially abused Indian players both in SCG and Gabba.
+That scene of Rishabh Pant driving the ball for 4 and the roar and jump from Shardul,Siraj and Nattu will remain etched in my memory for ages.
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
-
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Feels no less than a WC win!
