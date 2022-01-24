@@ -4,6 +4,7 @@ title: "The Magical Tour Down Under"
 author: Saptarshi
 categories: [Jekyll, tutorial]
 image: assets/images/magical_tour.jpg
+featured: true
 ---
 
 What a tour this has been!!!
