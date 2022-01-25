@@ -2,7 +2,7 @@
 layout: post
 title: "The Magical Tour Down Under"
 author: saptarshi
-categories: [Jekyll, tutorial]
+categories: [Cricket]
 image: assets/images/magical_tour.jpg
 featured: true
 ---
