@@ -4,6 +4,7 @@ title: "Conquering Fortress Gabba"
 author: saptarshi
 categories: [Cricket]
 image: assets/images/Conquering_Fortress_Gabba.jpg
+featured: true
 ---
 
 A perfect end to one of the most thrilling test series ever!!!
