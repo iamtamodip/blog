@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ashes '21"
+title: "Final Ashes Test '21"
 author: saptarshi
 categories: [Cricket]
 image: assets/images/the-ashes.png
@@ -13,4 +13,4 @@ The dream was about to get real for the Brits as they found themselves at 68/0 j
 From 68/0 to 124- Sums up England test team....
 A lot to do for the management and the players but that's absolute ecstasy for Australia right at the moment.
 🏆🏆🏆
-#Ashes2021
+#Ashes2021 #FinalTest
